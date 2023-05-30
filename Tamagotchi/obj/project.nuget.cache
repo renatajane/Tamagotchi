@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "H4EhtDUnNJUhO4+bTiN2tZhU1iUvJsMV3D4Dxa80GHSbDW3ZmBEEXKFFeAIgH8ETd1hTXIL8l5pchkG9D+Trgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Renata\\Desktop\\Tamagotchi\\Tamagotchi\\Tamagotchi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Renata\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\Renata\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Renata\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Renata\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
